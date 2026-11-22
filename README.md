@@ -23,11 +23,11 @@ Runs on your own machine with one API key and no sign-up. Everything is saved in
 
 <div align="center">
 
-<img src="docs/explore.png" alt="Smartphone designed by Kimi K3.1 Pro: exploded layered internals with numbered name tags, parts list on the left, How it works on the right" width="900">
+<img src="docs/explore.png" alt="Attack helicopter designed by Kimi K3.1 Pro: exploded internals, mast radar and rotor drive selected, parts list numbered on the left, How it works on the right" width="900">
 
 </div>
 
-_A modern touchscreen smartphone, designed by Kimi K3.1 Pro: 48 parts, Explore with Names on and the stack pulled apart so every layer—from cover glass to radios—is tagged and clickable._
+_A tandem-seat twin-turboshaft attack helicopter with mast-mounted radar, designed by Kimi K3.1 Pro: 54 parts, five flows, Explore with the main transmission and rotor mast picked; "See through" and exploded view show the drive path._
 
 ## Why Kimi K3.1 Pro
 
@@ -69,15 +69,15 @@ Kimi K3.1 Pro can design in 3D, and Kaplun lets it do the whole job:
 
 <table>
 <tr>
-<td><img src="docs/home.png" alt="Home: snap or drop a photo, or type a name; example machines; the attack helicopter as the featured machine" width="440"></td>
-<td><img src="docs/steps.png" alt="Step by step on the smartphone: step 1 of 8, peel the sealed glass sandwich, with the front cover glass tagged on the model" width="440"></td>
+<td><img src="docs/home.png" alt="Home: snap or drop a photo, or type a name; example machines; the jet engine as the featured machine" width="440"></td>
+<td><img src="docs/steps.png" alt="Step by step on the toothbrush: step 3 of 8, the handle enclosure is off and the board and chassis are tagged" width="440"></td>
 </tr>
 <tr>
 <td align="center"><sub>Start from a photo or a name</sub></td>
 <td align="center"><sub>A guided teardown, one step at a time</sub></td>
 </tr>
 <tr>
-<td colspan="2"><img src="docs/quiz.png" alt="Learn & quiz on the smartphone: question 1 of 7 with big answer buttons and things to remember" width="900"></td>
+<td colspan="2"><img src="docs/quiz.png" alt="Learn & quiz: one question at a time with big answer buttons" width="900"></td>
 </tr>
 </table>
 
